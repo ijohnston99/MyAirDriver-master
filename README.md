@@ -1,4 +1,4 @@
-radioThermostatDriver
+MyAirDriver
 =====================
 
 This driver interfaces is design to interface with the Advantage Air MyAir 3. 
@@ -20,9 +20,4 @@ Next, add these states to the "radioThermostatDriver - Thermostat Fan Operating 
 <li>Thermostat Fan Auto/Circ</li>
 <li>Thermostat Fan Unknown</li>
 </ul>
-And for "radioThermostatDriver - Thermostat Hold Mode", add:
-<ul>
-<li>Thermostat Hold Disabled</li>
-<li>Thermostat Hold Enabled</li>
-<li>Thermostat Hold Unknown</li>
-</ul>
+
