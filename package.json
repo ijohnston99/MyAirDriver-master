@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/theminor/radioThermostatDriver"
+    "url": "git://github.com/ijohnston99/MyAirDriver"
   },
   "author": "John Minor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theminor/radioThermostatDriver/issues"
+    "url": "https://github.com/theminor/MyAirDriver/issues"
   }
 }
