@@ -1,6 +1,6 @@
 {
   "name": “(MyAirDriver)",
-  "version": "0.0.1",
+  "version": “0.0.0”,
   "description": "This driver interfaces with MyAir and similar wifi-based home thermostats",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ijohnston99/MyAirDriver"
+    "url": “https://github.com/ijohnston99/MyAirDriver-Master”
   },
-  "author": "John Minor",
+  "author": “Ian Johnston”,
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/theminor/MyAirDriver/issues"
