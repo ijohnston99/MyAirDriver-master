@@ -1,10 +1,8 @@
 radioThermostatDriver
 =====================
 
-This driver interfaces with Radio Thermostats such as those from radiothermostat.com and similar wifi-based home thermostats
-
-Example Widget for the beta ninja blocks dashboard can be found here:
-https://gist.github.com/theminor/8214114
+This driver interfaces is design to interface with the Advantage Air MyAir 3. 
+It's a first attempt based on theminor radiothermostatdriver
 
 To get the thermostat modes working, you need to add a "state" for each possible operating mode in each "device" created. To do this, after installing the driver, log into your "classic" dashboard (that is, not the beta dashboard) and first find the "radioThermostatDriver - Thermostat Operating Mode" device. Click the little configure menu and "Add New State". Do this to add these states:
 
