@@ -6,11 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
+  "repository": “”,
+  "author": “Ian Johnston”,
+  "license": "MIT”,
     "type": "git",
     "url": “https://github.com/ijohnston99/MyAirDriver-Master”
-  },
-  "author": “Ian Johnston”,
-  "license": "MIT"
   }
 }
